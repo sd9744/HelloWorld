@@ -15,7 +15,8 @@ public class VariableExamples {
         // int: 가장 많이 사용하는 정수 타입 (32비트, -2,147,483,648 ~ 2,147,483,647)
         int age = 25;  // 나이를 저장하는 변수
         int year = 2024;  // 연도를 저장하는 변수
-        
+        int test = 1;
+
         // long: 더 큰 정수를 저장할 때 사용 (64비트)
         long population = 50000000L;  // 인구수를 저장 (L을 붙여서 long 타입임을 명시)
         
