@@ -16,6 +16,7 @@ public class VariableExamples {
         int age = 25;  // 나이를 저장하는 변수
         int year = 2024;  // 연도를 저장하는 변수
         int test = 1;
+        int test2 = 2;
 
         // long: 더 큰 정수를 저장할 때 사용 (64비트)
         long population = 50000000L;  // 인구수를 저장 (L을 붙여서 long 타입임을 명시)
